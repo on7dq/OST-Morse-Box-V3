@@ -7,3 +7,5 @@ You will need to update the Arduino firmware to version 3.00, then enjoy the com
 
  (* If you don't see anything in the HELP file, open it's properties and tick the "Unblock" box)
 
+ EDIT December 5, 2023 : added one line in the Arduino code to set the brightness of the OLED display, see line 242 in OST_Morse_V300.ino
+
