@@ -7,5 +7,5 @@ You will need to update the Arduino firmware to version 3.00, then enjoy the com
 
  (* If you don't see anything in the HELP file, open it's properties and tick the "Unblock" box)
 
- EDIT December 8, 2023 : added setting of the contrast of the OLED display, with new AT-command AT+CONTRAST=nn, with nn = 0 .. 255
+ EDIT December 8, 2023 : added setting of the contrast of the OLED display, with new AT-command *AT+CONTRAST=nn*, with nn = 0 .. 255
 
